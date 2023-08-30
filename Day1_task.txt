@@ -1,4 +1,4 @@
-Difference between HTTP 1.1 vs HTTP 2
+1 Difference between HTTP 1.1 vs HTTP 2
     Hyper Text Transfer Protocol (HHTP) is an application protocol that has been the de-facto standard of communication on the World Wide Web since its invention in 1989.
     HTTP 1.1 released in 1997 after that there havae been few revisions to the protocol
         HTTP 1.1 have a poor responce time. With website becoming more resource intensive, the protocol was losing its efficency
@@ -15,3 +15,14 @@ HTTP 2
     * It allows multiplexing so one TCP connection is required for multiple requests.
     * It uses PUSH frame by server that collects all multiple pages.
     * It uses HPACK for data compression.
+
+2 Write a blog about objects and its internal representation in Javascript
+    * Objects are important data types in javascript. 
+    * Objects are different than primitive datatypes.
+    * Objects are more complex and each object may contain any combination of these primitive data-types as well as reference data-types.
+    * Primitive data types contain one value but Objects can hold many values in form of Key and value pair.
+    * These keys can be variables or functions and are called properties and methods, respectively, in the context of an object.
+    * Every object has some property associated with some value. 
+    * These values can be accessed using these properties associated with them.
+    
+
